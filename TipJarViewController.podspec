@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.ios.deployment_target = '10.3'
+  s.ios.deployment_target = '10.0'
   s.swift_version = '4.2'
 
   s.source_files = 'TipJarViewController/Classes/**/*'
