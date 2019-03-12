@@ -101,8 +101,8 @@ open class TipJarViewController<T>: BaseTableViewController, UITableViewDelegate
         case small
         case medium
         case large
-        case huge
-        case massive
+//        case huge
+//        case massive
 
         static var title: String { return T._oneTimeTitle }
         
