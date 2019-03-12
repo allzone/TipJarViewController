@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit', 'StoreKit'
-  s.dependency 'QuickTableView', '~> 3'
-  s.dependency 'SuperLayout', '~> 2'
-  s.dependency 'LionheartExtensions', '~> 4'
+  s.dependency 'QuickTableView'
+  s.dependency 'SuperLayout'
+  s.dependency 'LionheartExtensions'
 end
